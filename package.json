@@ -1,0 +1,11 @@
+{
+  "name": "advent",
+  "version": "1.0.0",
+  "description": "advent of code, repository",
+  "main": "index.js",
+  "author": "rcacheira <rcacheira@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
